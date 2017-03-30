@@ -1,0 +1,12 @@
+target
+*workspace.xml
+.idea
+src/main/resources/evaluation/results*
+src/main/resources/evaluation/ner*
+src/main/resources/evaluation/AIDA-linked/documents*
+src/main/resources/evaluation/AIDA/documents*
+src/main/resources/dataset/*
+temp/*
+*.ser
+src/main/resources/luceneCommunicator/erd/data
+src/main/resources/luceneCommunicator/englishne/data

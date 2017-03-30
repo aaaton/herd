@@ -1,0 +1,37 @@
+---
+title: Hajen Lexical NER
+layout: default
+---
+
+<div class="inner">
+<h1>Demo of Hajen Entity Recognizer and Disambiguator (HERD)</h1>
+
+<p>
+    Paste text (preferably < 1000 words) into the form below, select language, and get a response from the named entity recognizer and disambiguater,
+    that is being developed at LTH. The response is visualized with <a href="http://brat.nlplab.org/index.html">brat</a>.
+</p>
+
+<form method="POST" action="">
+    <textarea name="taggable" id="taggable">[[untagged]]</textarea>
+    <br/>
+    <select name="language">
+        <option value="englishne" [[englishne]]>English</option>
+        <option value="swedishne" [[swedishne]]>Swedish</option>
+        <option value="frenchne" [[frenchne]]>French</option>
+        <option value="erd" [[erd]]>ERD Filter</option>
+    </select>
+    <input type="submit">
+    <div id="tagged_text">
+        [[tagged]]
+    </div>
+    <div id="commentpopup"></div>
+</form>
+<p>
+    This NER is developed as part of a master thesis by me, Anton Södergren, reachable at karl.aj.sodergren [at] gmail.com
+</p>
+</div>
+
+<script type="text/javascript">
+var docData;
+[[&docdata_inject]]
+</script>

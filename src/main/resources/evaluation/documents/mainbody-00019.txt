@@ -1,0 +1,29 @@
+Minecraft Pocket for Android: First Look
+
+Good ole' Notch from Mojang has decided that Minecraft has been confined to a PC for far too long. Minecraft is now available as an app from the Android Market. Here's our groovy first look.
+To find it in the Android Market, search "minecraft pocket" or just click on this link.  Minecraft Pocket sports the groovy little 3D grass square that we all know and love, and is made by the original Minecraft developer, Mojang. Surprisingly the app is only 2MB in size and won't take long to download even on a 3G connection.
+If you're thinking about purchasing it, I recommend trying the demo first. Make sure it runs smoothly on your device.
+
+When the game first loads, the screen will automatically switch to landscape mode. You'll have 3 different options.
+Join Game - This is the multiplayer area of Minecraft Pocket.  Currently, it only works on local Wi-Fi connections, so you'll have to be on the same network to play a game with your friends.  Note that this does not allow you to play with people running the desktop version of Minecraft. Start Game - Single Player mode. Options - Adjust game settings; see the screenshot below.
+
+Options in Minecraft Pocket are somewhat limited.  You can change your Username and server visibility (a server is just your single player game), though none of that rmatters at this point since only local network players can join.  The graphic and control settings can also be adjusted, but again -- it doesn't change much. Fancy graphics will give you less fog, and under  the controller settings there's no option for a mouse or joystick.
+
+Just like with the desktop version, Minecraft Pocket will Generate a new world.  The time it takes will vary on your Android device's hardware specs, but generally takes one minute.
+
+At first glance the Minecraft Pocket world looks similar to the desktop version. The blocks, the graphic engine, and the physics are the same. There are no monsters, no dropped items, no tools and no clouds. Movement is controlled via an on-screen arrow pad, and you drag the screen around for where you want to look.
+
+The world operates like Minecraft Classic (which is available for free play online), but the world is terrain generated -- rather than a flat level.  Rather than harvesting blocks, there's an unlimited supply within your inventory to choose from. To enter third person mode, just push the Search button on your phone.
+
+To put blocks from your inventory into your use bar, just double tap them.  If you're running the demo version you'll notice that some of the blocks are not available.
+
+Tapping the settings button or back button will open the game menu, but as you can see there isn't much to do there at this point either.
+
+Minecraft Pocket is off to a great start. Mojang has already brought it to the same level as Minecraft Classic, but at this point I don't see the app being worth the $7 price tag until development has furthered. Of course, knowing Mojang, it'll raise the price as development moves along. Check out the chart below for some of the key differences between versions.
+Minecraft Pocket  - DEMO(FREE) Minecraft Pocket Edition   $6.99 Minecraft BETA (PC)  $20 Usable Blocks 18 36 121 Creative Mode ü ü ü Survival Mode û û ü Local Wi-Fi Multiplayer ü ü ü(sorta) Connect to dedicated servers û û ü Save Your World û ü ü Save Multiplayer û ü ü Change Skins û û ü Monsters û û ü Animals û û ü Tools û û ü Mods and Texture Packs û û ü Cross-platform û û ü
+ 
+ 
+ 
+ 
+ 
+ 

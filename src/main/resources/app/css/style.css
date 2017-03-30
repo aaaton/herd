@@ -1,0 +1,16 @@
+body {
+    padding: 30px;
+}
+p {
+}
+textarea {
+    width:100%;
+    height:200px;
+}
+input {
+    margin: 20px 0 50px;
+}
+
+.inner {
+max-width:1200px;
+}
